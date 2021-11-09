@@ -2,4 +2,4 @@
 
 This repo conatins two projects of OSS_lecture
 1. Midterm project(polynomial regression)
-2. Filnal project
+2. Final project
